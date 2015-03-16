@@ -1,0 +1,2 @@
+# WWGroupBarsView
+group bars
